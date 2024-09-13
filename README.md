@@ -34,4 +34,5 @@
 
 ## Tela Principal do in.orbit:
 
-![Página Principal](in-orbit/img/image.png)
+![Página Principal](./image.png)
+
